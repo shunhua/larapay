@@ -23,8 +23,7 @@
 
 ### 银联
 
-* 即时到账(wap,web,app)
-* 交易退款接口
+* 网关支付(web,app)
 
 ### Paypal
 
@@ -37,7 +36,7 @@
 
 *  [支付宝](doc/Alipay.md)
 *  [微信支付](doc/Wechatpay.md)
-*  银联支付  (拖延症中...)
+*  [银联支付](doc/Unionpay.md)
 *  Paypal	  (拖延症中...)
 
 ## 安装使用
